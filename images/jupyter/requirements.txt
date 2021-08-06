@@ -1,0 +1,7 @@
+numpy
+pandas
+pyspark==2.4.3
+happybase
+pykafka
+kafka-python
+pyarrow
